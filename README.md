@@ -36,9 +36,9 @@ En este repositorio, encontrarás todo lo relacionado con el código fuente de m
 <table>
     <tr>
         <td width="50%">
-            <h3>Proyecto 1</h3>
-            <a href="" target=""><img src="" width="400" alt="P1"></a>
-            <p>Descripción P1</p>
+            <h3>Api Cat Gallery</h3>
+            <a href="https://jdap95.github.io/Javascript-Project/dist/" target=""><img src="" width="400" alt="P1"></a>
+            <p>Proyecto realizado con vite y vanilla javascript que consume The Cat API para mostrar una galería interactiva de gatos, permitiendo filtrar resultados, cargar más imágenes y gestionar favoritos mediante localStorage.</p>
         </td>
         <td width="50%">
             <h3>Proyecto 2</h3>
@@ -71,3 +71,4 @@ Si tienes alguna duda o sugerencia no dudes en contactar conmigo:
 [![Email Personal](https://img.shields.io/badge/Outlook%20-white?style=for-the-badge&logo=hotmail&label=juan.diego.ap%40outlook.com&labelColor=%23363636&color=blue)](mailto:juan.diego.ap@outlook.com)
 
 Gracias por visitar mi repositorio.
+
