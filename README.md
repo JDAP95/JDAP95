@@ -1,76 +1,95 @@
-# Juan Diego Ayllón Parra
+# 👨‍💻 Juan Diego Ayllón Parra
 
-## _Desarrollador Full-Stack y Amante de la Tecnología_
+## 🚀 Full-Stack Developer | Frontend Specialist | Tech Enthusiast
 
 ![https://github.com/JDAP95/JDAP95](./juandiDevs.png)
 
-Hola, mi nombre es Juan Diego y soy desarrollador full-stack. Este es mi espacio donde muestro y comparto mis ideas y proyectos en el mundo del desarrollo.
-
-## _Acerca del Repositorio_
-
-
-En este repositorio, encontrarás todo lo relacionado con el código fuente de mis proyectos y mi evolución como Desarrollador Full-Stack
-
-### _Tecnologías_
 ---
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=%23363636)]() 
-[![Html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23363636&color=%23E34F26)]() 
-[![Css3](https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=%23363636&color=blue)]() 
-[![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=%23363636&color=%23CC6699)]()
-[![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23363636&color=%23F7DF1E)]()
-[![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23363636&color=%234479A1)]()
-[![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=white&labelColor=%23363636&color=cyan)]()
-[![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%23363636&color=pink)]()
-[![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=white&labelColor=%23363636&color=green)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress-white?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=%23363636&color=skyblue)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-white?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=%23363636&color=%47ba87)]()
+## 👋 About Me
 
-- Frontend: HTML, CSS, JavaScript, TypeScript, React, Astro, Angular, Vue.js
-- Backend: SQL, Django, Streamlit, Java, Rust, Node.js
-- Otros: Python, C#
+Soy desarrollador **Full-Stack** enfocado en la creación de aplicaciones web modernas, escalables y orientadas a la experiencia de usuario.
 
-### _Algunos de mis proyectos_
+Me apasiona transformar ideas en productos digitales funcionales utilizando tecnologías actuales del ecosistema web.
+
 ---
 
-<table>
-    <tr>
-        <td width="50%">
-            <h3>Api Cat Gallery</h3>
-            <a href="https://jdap95.github.io/Javascript-Project/dist/" target=""><img src="https://jdap95.github.io/Javascript-Project/cat-gallery.png" width="400" alt="P1"></a>
-            <p>Proyecto realizado con vite y vanilla javascript que consume The Cat API para mostrar una galería interactiva de gatos, permitiendo filtrar resultados, cargar más imágenes y gestionar favoritos mediante localStorage.</p>
-        </td>
-        <td width="50%">
-            <h3>Proyecto 2</h3>
-            <a href="" target=""><img src="" width="400" alt="P2"></a>
-            <p>Descripción P2</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <h3>Proyecto 3</h3>
-            <a href="" target=""><img src="" width="400" alt="P3"></a>
-            <p>Descripción P3</p>
-        </td>
-        <td width="50%">
-            <h3>Proyecto 4</h3>
-            <a href="" target=""><img src="" width="400" alt="P4"></a>
-            <p>Descripción P4</p>
-        </td>
-    </tr>
-</table>
+## 🎯 What I Do
 
+- ⚛️ Desarrollo Frontend con React, TypeScript y frameworks modernos
+- 🧠 Diseño de interfaces escalables basadas en componentes
+- 🔗 Integración con APIs REST y servicios externos
+- 💾 Gestión de estado y persistencia de datos en cliente
+- 🚀 Deploy y optimización de aplicaciones web
 
-### _Contáctame_
 ---
 
-Si tienes alguna duda o sugerencia no dudes en contactar conmigo:
+## 🧰 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/juan-diego-ayllón-parra-081b73185)  
-[![Email Personal](https://img.shields.io/badge/Gmail%20-white?style=for-the-badge&logo=gmaile&label=jony.6.1995%40gmail.com&labelColor=%23363636&color=%23EA4335)](mailto:jony.6.1995@gmail.com)  
-[![Email Personal](https://img.shields.io/badge/Outlook%20-white?style=for-the-badge&logo=hotmail&label=juan.diego.ap%40outlook.com&labelColor=%23363636&color=blue)](mailto:juan.diego.ap@outlook.com)
+### Frontend
+[![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)]()
 
-Gracias por visitar mi repositorio.
+### Backend & Others
+[![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+
+---
+
+## 📌 Featured Projects
+
+### 🐱 CatGallery - React + The Cat API
+[🌍 Live Demo](https://jdap95.github.io/Javascript-Project/dist/)
+  
+Aplicación web desarrollada con React que consume la API de gatos para mostrar una galería dinámica con funcionalidades avanzadas.
+
+**Highlights:**
+- Consumo de API REST
+- Sistema de favoritos con localStorage
+- Filtros dinámicos
+- Arquitectura basada en componentes
+- UI responsive y optimizada
+
+---
+
+### 📊 More Projects Coming Soon
+Actualmente estoy trabajando en nuevos proyectos enfocados en:
+- Sistemas full-stack con FastAPI + React
+- Dashboards de análisis de datos
+- Aplicaciones escalables con arquitectura moderna
+
+---
+
+## 📈 Focus Areas
+
+- Desarrollo de aplicaciones web modernas
+- Arquitectura frontend escalable
+- Experiencia de usuario (UX)
+- Consumo de APIs y datos en tiempo real
+- Mejores prácticas de desarrollo
+
+---
+
+## 📫 Contact
+
+Estoy abierto a colaboraciones, oportunidades y proyectos interesantes.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-ayllón-parra-081b73185)
+
+📧 Email:  
+- jony.6.1995@gmail.com  
+- juan.diego.ap@outlook.com
+
+---
+
+## ⚡ Philosophy
+
+> “Code is Art, is not just logic, it's product thinking, architecture and experience combined.”
 
 
 
