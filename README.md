@@ -1,6 +1,6 @@
 # 👨‍💻 Juan Diego Ayllón Parra
 
-## 🚀 Full-Stack Developer | Frontend Specialist | Tech Enthusiast
+## 🚀 Full-Stack Developer | Tech Enthusiast
 
 ![https://github.com/JDAP95/JDAP95](./juandiDevs.png)
 
@@ -16,11 +16,19 @@ Me apasiona transformar ideas en productos digitales funcionales utilizando tecn
 
 ## 🎯 What I Do
 
-- ⚛️ Desarrollo Frontend con React, TypeScript y frameworks modernos
-- 🧠 Diseño de interfaces escalables basadas en componentes
-- 🔗 Integración con APIs REST y servicios externos
-- 💾 Gestión de estado y persistencia de datos en cliente
-- 🚀 Deploy y optimización de aplicaciones web
+### 🎨 Frontend Development
+- ⚛️ Desarrollo de interfaces con React y TypeScript
+- ⚡ Experiencia con Vite para proyectos rápidos y optimizados
+- 🌐 Creación de sitios modernos con Astro
+- 🧩 Arquitectura basada en componentes reutilizables
+- 🔗 Consumo de APIs REST
+
+### ⚙️ Backend Development
+- 🚀 Desarrollo de APIs con FastAPI
+- 🧠 Diseño de lógica de negocio escalable
+- 🔐 Implementación de autenticación y autorización (JWT)
+- 🗄️ Integración con bases de datos SQL
+- 📡 Creación de endpoints REST eficientes y seguros
 
 ---
 
@@ -28,6 +36,7 @@ Me apasiona transformar ideas en productos digitales funcionales utilizando tecn
 
 ### Frontend
 [![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white)]()
+[![Astro](https://img.shields.io/badge/Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -36,6 +45,7 @@ Me apasiona transformar ideas en productos digitales funcionales utilizando tecn
 ### Backend & Others
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
 
